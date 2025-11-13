@@ -64,7 +64,6 @@ Présenter le projet comme une solution que nous développerons réellement apr�
 6. **Analyse statistique** : Inclure des éléments comme la p-value pour montrer la rigueur
 7. **Financement** : Institutions ou organisations potentielles pour soutenir le projet
 8. **Sensibilisation et diffusion** : Idées pour encourager l'adoption (podcast, outreach, événements, etc.)
-9. **Timeline** : Plan de déploiement sur 3 à 5 ans
 
 ---
 
