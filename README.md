@@ -295,6 +295,5 @@ Les agents intermédiaires (Red Flag, Coaching, Clinical Interview, De-escalatio
 ## 📚 Documentation Détaillée
 
 - **Structure du pitch** : `presentation/Structure_Pitch.md`
-- **Détails d'entraînement des modèles** : `documentation/10_Entrainement_Modeles_Agents.md` (à créer)
-- **Tâches Rayyan** : `analyse_rayyan/Taches_Rayyan.md` (archivé)
+- **Détails d'entraînement des modèles** : `documentation/10_Entrainement_Modeles_Agents.md`
 - **Modèles CANPATH** : 5 notebooks de régression logistique dans `analyse_rayyan/`
