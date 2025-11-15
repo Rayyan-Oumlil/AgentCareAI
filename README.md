@@ -2,43 +2,15 @@
 
 Hackathon santé numérique - 13-14 novembre 2025
 
-## 📁 Structure du projet
+## 🏆 Résultat du Hackathon
 
-```
-MILA-Hackathon/
-├── data/                    # Jeux de données
-│   ├── CanPath_Student_Dataset_V2-20251113T130900Z-1-001/
-│   └── MDClone-20251113T131252Z-1-001/
-├── documentation/            # Documentation du hackathon (organisée)
-│   ├── 01_Questions_de_recherche.md          # 10 questions de recherche suggérées
-│   ├── 02_Projet_de_recherche.md              # Projet de recherche (version anglaise)
-│   ├── 03_Notes_Hackathon.md                  # Notes générales du hackathon
-│   ├── 04_Plan_Juan_Felipe.md                 # Plan de recherche et présentation
-│   ├── 05_Presentation_MDClone.md             # Présentation MDClone (CUSM)
-│   ├── 06_Presentation_CANPATH.md             # Présentation CANPATH
-│   ├── 07_Presentation_POYM.md                # Présentation POYM (CHUS)
-│   ├── 08_Article_MDClone_Validation.md       # Article validation données synthétiques
-│   ├── 09_Idees_Projet_Agent_IA.md            # Idées concrètes pour le projet
-│   ├── 13_Dashboard_Design_UI.md              # Design et interface utilisateur
-│   ├── 15_Limites_Etudes_References.md        # Limites des études de référence
-│   ├── 16_Resume_Analyses_PL.md              # Résumé analyses PL (variables sélectionnées)
-│   └── Article_WSI_Agents_MultiAgent_System.pdf  # Article multi-agents (inspiration)
-├── presentation/             # Présentation finale du hackathon
-│   ├── Structure_Pitch.md    # Structure détaillée du pitch (5-6 slides)
-│   ├── Validation_Utilisateurs.md  # Guide validation avec professionnels
-│   ├── Hackathon_RSN_Pitch_Template (1).pdf  # Template officiel (Tess)
-│   └── README.md             # Guide de la présentation
-├── analyse_rayyan/           # Analyses CANPATH (Rayyan)
-│   ├── Model_Isolation_Sociale_CANPATH.ipynb      # Modèle 1: Prédiction isolement social
-│   ├── Model_Troubles_Sommeil_CANPATH.ipynb      # Modèle 2: Troubles sommeil (indicateur stress)
-│   ├── Model_Depression_CANPATH.ipynb            # Modèle 3: Prédiction dépression majeure
-│   ├── Model_Isolement_Aines_CANPATH.ipynb        # Modèle 4: Isolement et santé chez aînés (65+)
-│   ├── Model_Environnement_Isolement_CANPATH.ipynb # Modèle 5: Interaction environnement-isolement-dépression
-│   └── visualisations_*/     # Visualisations générées par chaque modèle
-├── Chapitre_16 - Santé mentale et troubles mentaux.xlsx  # Données adolescents (Julie-Anne)
-├── .gitignore                # Exclut les données sensibles (data/)
-└── README.md
-```
+**🎉 Félicitations ! Nous avons terminé à la 3ème place ! 🎉**
+
+<img src="presentation/Hackathon%203rd%20Place%20certificate.jpg" alt="Certificate" width="400">
+
+<img src="presentation/Hackathon%20Sante%20numerique.jpg" alt="Group Photo" width="400">
+
+## 📁 Structure du projet
 
 ## 👥 Membres de l'équipe
 
@@ -47,7 +19,6 @@ MILA-Hackathon/
 - Juan Felipe Duran
 - Mouni
 - Rayyan
-- PL_92
 
 ## 🎯 Axe thématique choisi
 
@@ -294,6 +265,7 @@ Les agents intermédiaires (Red Flag, Coaching, Clinical Interview, De-escalatio
 
 ## 📚 Documentation Détaillée
 
+- **Présentation finale** : `presentation/TEAM-3-PRESENTATION.pdf`
 - **Structure du pitch** : `presentation/Structure_Pitch.md`
 - **Détails d'entraînement des modèles** : `documentation/10_Entrainement_Modeles_Agents.md`
 - **Modèles CANPATH** : 5 notebooks de régression logistique dans `analyse_rayyan/`
